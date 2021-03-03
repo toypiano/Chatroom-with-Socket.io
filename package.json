@@ -21,7 +21,7 @@
     "passport-github": "1.1.0",
     "passport-session": "1.0.2",
     "passport.socketio": "3.7.0",
-    "pug": "2.0.4",
+    "pug": "3.0.1",
     "socket.io": "2.2.0"
   },
   "devDependencies": {
